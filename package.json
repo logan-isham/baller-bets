@@ -36,5 +36,6 @@
     "vite": "^5.4.1"
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
+    "homepage": "https://logan-isham.github.io/ballerbets"
   }
 }
